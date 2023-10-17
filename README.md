@@ -13,4 +13,4 @@
 
 [Binplorer API](https://github.com/amilabs/Binplorer/wiki/Binplorer-API)
 
-(https://Binplorer.com)
+https://Binplorer.com
